@@ -1,0 +1,114 @@
+.card5{
+    border: 2px solid rgb(192, 192, 252);
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+.card-body5{
+justify-content: center;
+align-items: center;
+text-align: center;
+    
+
+}
+.button5{
+    width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  background-color: rgb(61, 175, 61);
+  color: rgb(255, 255, 255);
+  height: 40px;
+}
+.button5:hover{
+    background-color: rgb(31, 197, 31);
+}
+.button6{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 10px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(226, 12, 12);
+    margin-top: 4px;
+    border: none;
+}
+.button6:hover{
+    background-color: rgb(202, 82, 82);
+}
+.cover{
+
+width: 60%;
+margin-left: auto;
+margin-right: auto;
+display: block;
+padding-top: 20px;
+margin-top: 70px;
+
+
+}
+.Slider{
+    background-color: black;
+}
+.img1{
+    background-color: rgb(255, 255, 255);
+   width: 90x;
+}
+.btnn{
+
+}
+
+@media(max-width:500px) 
+{
+    .button5 {
+      width: 60%;
+   
+    }
+}
+
+@media(max-width:500px) 
+{
+    .button6 {
+      width: 60%;
+      margin-right: auto;
+      margin-left: auto;
+      display: block;
+      
+
+     
+    }
+}
+@media(max-width:445px) 
+{
+    .button6 {
+      width: 60%;
+      margin-right: auto;
+      margin-left: auto;
+      display: block;
+      margin-top: 20px;
+      
+
+     
+    }
+}
+
+@media(max-width:445px) 
+{
+    .button5 {
+      width: 70%;
+      margin-right: auto;
+      margin-left: auto;
+      display: block;
+      font-size: 70%;
+      
+
+     
+    }
+}
